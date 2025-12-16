@@ -88,7 +88,7 @@ Currently working as a **PHP Developer at ITS Tech World**, building scalable ba
 
 ## 📈 GitHub Stats
 
-![GitHub Contributions](https://ghchart.rshah.org/MuhammadUsmanNazar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanNazar&show_icons=true&theme=default)
 
 ---
 
