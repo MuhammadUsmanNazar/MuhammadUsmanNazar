@@ -9,7 +9,7 @@
 
 I'm a Backend Developer with over 1 year of hands-on experience in web application development and backend system design, specializing in PHP (Laravel) and RESTful APIs. I have proven experience in improving system efficiency through seamless API integrations and implementing real-time communication using Mercure. I'm passionate about building scalable, high-performance applications that enhance user experience through modern backend technologies.
 
-Currently working as a **PHP Developer at ITS Tech World**, building scalable backend solutions for web applications.
+Currently working remotely as a PHP Developer with ITS Tech World, where I work on their system via remote PC access. I handle ERP-related tasks including feature updates, issue fixing, and system maintenance based on assigned requirements.
 
 ---
 
@@ -17,10 +17,10 @@ Currently working as a **PHP Developer at ITS Tech World**, building scalable ba
 
 ### **PHP Developer** | ITS Tech World
 *Nov 2025 – Present | Remote*
-- Building scalable backend solutions for web applications using PHP
-- Working with Core PHP to manage and maintain ERP software systems
-- Handling assigned tasks for ERP software management and optimization
-- Implementing efficient database designs and optimizations
+- Working remotely by accessing company’s local system to perform assigned ERP-related tasks
+- Handling Core PHP based ERP modules, updates, and routine maintenance
+- Fixing reported bugs and resolving functional issues in existing ERP workflows
+- Supporting database-related changes and optimizing queries as per task needs
 
 ### **Junior Back-end Developer** | AXIS - Coding Solutions
 *Feb 2025 – Dec 2025 | Lahore, Pakistan*
