@@ -43,8 +43,7 @@ Currently working as a **PHP Developer at ITS Tech World**, building scalable ba
 ### **Backend Development**
 | PHP | Laravel | RESTful APIs | MySQL |
 |---|---|---|---|
-| **Real-time** | **Version Control** |
-| Laravel Passport | Mercure | Docker |
+| **Real-time** | **Version Control** | **Mercure** | **Docker** |
 
 ### **Frontend & Styling**
 | HTML5 | CSS3 | JavaScript | jQuery |
