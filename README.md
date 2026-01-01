@@ -87,7 +87,8 @@ Currently working remotely as a PHP Developer with ITS Tech World, where I work 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanNazar&show_icons=true&theme=default)
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanNazar&show_icons=true&theme=default&cache_seconds=1800)
+
 
 ---
 
