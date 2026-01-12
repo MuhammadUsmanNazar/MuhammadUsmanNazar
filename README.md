@@ -87,7 +87,7 @@ Currently working remotely as a PHP Developer with ITS Tech World, where I work 
 
 ## 📈 GitHub Stats
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUsmanNazar&theme=github)
+![GitHub Contribution Grid](https://github-contribution-grid.vercel.app/api/?username=MuhammadUsmanNazar)
 
 ---
 
